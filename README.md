@@ -1,1 +1,2 @@
 # fycstest
+print("hello world")
